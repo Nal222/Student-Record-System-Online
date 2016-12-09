@@ -1,0 +1,177 @@
+<style type="text/css">
+
+
+
+
+
+
+
+.formitem{  
+    width:100%;  
+    padding: 6px;  
+    font:11px "Lucida Grande",Arial,sans-serif;  
+} 
+
+
+.Menuitem{ 
+align:left;
+font:bold 12px Verdana, Geneva, sans-serif;
+color: White;
+background:#999;
+
+}
+
+.body
+{
+background-color:#F7D6CA
+	
+}
+
+.pgbkcolor{
+background-color: #999;
+}
+
+
+.fieldheading{ 
+align:left;
+font:bold 11px Verdana, Geneva, sans-serif;
+color: Black;
+padding:4px;
+}
+
+.fielddisplay{ 
+align:left;
+font:bold 12px Verdana, Geneva, sans-serif;
+color:white;
+padding:4px;
+}
+
+.error{ 
+align:center;
+font:bold 13px Verdana, Geneva, sans-serif;
+color: Black;
+
+}
+.required{ 
+align:left;
+font:bold 13px Verdana, Geneva, sans-serif;
+color: #C00;
+
+}
+
+.heading{ 
+
+font:bold 20px Verdana, Geneva, sans-serif;
+color: Black;
+align:center;
+
+
+}
+
+.singletable{
+	
+border-collapse:collapse;
+width:30%;
+background-color: #C00;	
+border: 2px solid black;	
+height:150px;	
+}
+
+.displaydata{
+	
+border-collapse:collapse;
+background-color:#FC9;	
+border: 1px solid black;	
+font:12px Verdana, Geneva, sans-serif;
+height:auto;
+width:auto;	
+padding:8px;
+
+}
+
+
+.buttonstyle{
+	background-color: #0000FF;
+	font: bold 11px  Verdana, Geneva, sans-serif;
+	color: #FFF;
+	text-align: center;
+	height:28px;
+	width: auto;	
+}
+	
+.inputfield {
+	font: bold Verdana, Geneva, sans-serif;
+	font-variant:bold;
+	border: 1px solid black;
+width: 230px;
+height: 20px;
+alignment-adjust:left;
+	
+	}
+
+.listdata {
+	font: bold Verdana, Geneva, sans-serif;
+	font-variant:bold;
+width:200;
+height: 20px;
+alignment-adjust:left;
+	
+	}
+.hyperlink a:link {
+COLOR:#FFF;
+}
+.hyperlink a:visited {
+COLOR:#CCC;
+}
+.hyperlink a:hover {
+COLOR:#999;
+}
+.hyperlink a:active {
+COLOR:#FFF;
+}
+
+.textarea {
+	font: bold Verdana, Geneva, sans-serif;
+	font-variant:bold;
+	border: 1px solid black;
+width: 230px;
+height: 50px;
+alignment-adjust:left;
+	
+	}
+
+.heading {
+	font: bold 18px Verdana, Geneva, sans-serif;
+	text-align:center;
+		
+	}
+	
+.tablestyle
+{
+border-collapse:collapse;
+width:555;
+border: 0;
+align:left;
+height:90;
+
+}
+.tabledata
+{	
+
+height:30px;
+vertical-align:bottom;
+text-align:left;
+padding:8px;
+border: 1;
+
+}
+
+.tableheading
+{
+	height: 30px;
+	border: 1px  solid black;
+	background-color: #C00;
+	color: white;
+}
+
+</style>
